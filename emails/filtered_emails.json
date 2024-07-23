@@ -1,0 +1,74 @@
+[
+    {
+        "type": "email",
+        "id": 65,
+        "from": "phillip.allen@enron.com",
+        "to": "john.lavorato@enron.com",
+        "date": "2001-05-09",
+        "title": "Re:",
+        "content": "The west desk would like 2 analysts."
+    },
+    {
+        "type": "email",
+        "id": 89,
+        "from": "ina.rangel@enron.com",
+        "to": "amanda.huble@enron.com",
+        "date": "2000-12-05",
+        "title": "Headcount",
+        "content": "Financial  (6)\n  West Desk  (14)\nMid Market (16)\n"
+    },
+    {
+        "type": "email",
+        "id": 60,
+        "from": "phillip.allen@enron.com",
+        "to": "kimberly.olinger@enron.com",
+        "date": "2000-02-07",
+        "title": "Re: January El paso invoice",
+        "content": "Kim,\n\n Doublecheck with Julie G. , but I think it ok to pay Jan. demand charges.\n"
+    },
+    {
+        "type": "email",
+        "id": 2,
+        "from": "phillip.allen@enron.com",
+        "to": "jsmith@austintx.com",
+        "date": "2001-03-07",
+        "title": "RE: the stage",
+        "content": "I just refaxed. Please confirm receipt"
+    },
+    {
+        "type": "email",
+        "id": 77,
+        "from": "phillip.allen@enron.com",
+        "to": "ina.rangel@enron.com",
+        "date": "2000-08-23",
+        "title": "Re: ENA Fileplan Project - Needs your approval",
+        "content": "you have my approval"
+    },
+    {
+        "type": "email",
+        "id": 95,
+        "from": "phillip.allen@enron.com",
+        "to": "colleen.sullivan@enron.com",
+        "date": "2000-12-04",
+        "title": "Re: Transportation Reports",
+        "content": "it is ok with me."
+    },
+    {
+        "type": "email",
+        "id": 78,
+        "from": "phillip.allen@enron.com",
+        "to": "maryrichards7@hotmail.com",
+        "date": "2000-03-03",
+        "title": "Re:",
+        "content": "It is ok to let the deposit rollover on #13 if there is no interruption in \nrent."
+    },
+    {
+        "type": "email",
+        "id": 34,
+        "from": "phillip.allen@enron.com",
+        "to": "felix.buitron@enron.com",
+        "date": "2000-07-07",
+        "title": "Re: Memory",
+        "content": "Anytime after 3 p.m."
+    }
+]
